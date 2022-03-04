@@ -11,8 +11,8 @@ video_save_path = video_url.split("/")[-1]
 api = TikTokApi.get_instance()
 
 
-
-custom_fp = "verify_kxbn1nsr_yM40IQVm_AY4K_44vb_9Ynk_pievCYDrJYBn"
+# use custom_fp
+custom_fp = "verify_"
 
 link = api.get_video_by_url(video_url, custom_verifyFp=custom_fp)
 folder = os.path.abspath(os.getcwd())
