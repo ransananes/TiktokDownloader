@@ -1,0 +1,15 @@
+
+h2 {
+  color:white;
+}
+input {
+  width: 25vw;
+}
+video {
+  width:450px;
+  height:350px;
+}
+.status_msg {
+  display:block;
+  padding: 5vh;
+}

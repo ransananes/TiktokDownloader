@@ -1,0 +1,8 @@
+.default-data{
+    width: 100%;
+    text-align: center;
+}
+.input-hold {
+    display: flex;
+    justify-content: center;
+}
