@@ -1,2 +1,2 @@
 # TIKTOK DOWNLOADER
-tiktok downloader using node and python ;)
+tiktok downloader using node and python! ;)
